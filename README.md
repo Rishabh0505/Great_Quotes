@@ -39,8 +39,8 @@ npm start
 ```
 <img width="1436" alt="Screenshot 2021-08-07 at 8 14 58 PM" src="https://user-images.githubusercontent.com/51152041/128604275-7b43fbb9-eda0-4a1f-a530-588d1bcfcf94.png">
 <img width="1434" alt="Screenshot 2021-08-07 at 8 15 21 PM" src="https://user-images.githubusercontent.com/51152041/128604281-ade7ab34-881e-4590-92e5-753f8ca98594.png">
-![screencapture-react-1-32c33-web-app-quotes-MgW3PzItOAT0Ibl1Y6-comments-2021-08-07-20_15_49](https://user-images.githubusercontent.com/51152041/128604288-427765ba-65a0-4fbc-a716-287cc6cd71f9.png)
-![screencapture-react-1-32c33-web-app-new-quote-2021-08-07-20_17_23](https://user-images.githubusercontent.com/51152041/128604294-6c8e9a9a-db45-4d51-b2da-c29294768cde.png)
+<img width="1436" alt="Screenshot 2021-08-07 at 8 27 39 PM" src="https://user-images.githubusercontent.com/51152041/128604796-fe580b95-dd62-4f44-9818-a371adb611a2.png">
+<img width="1432" alt="Screenshot 2021-08-07 at 8 27 31 PM" src="https://user-images.githubusercontent.com/51152041/128604799-c7291809-3326-499b-8e9f-4c2f3c02a23c.png">
 
 
 
